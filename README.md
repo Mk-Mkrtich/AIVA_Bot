@@ -30,6 +30,7 @@ Clone the repo:
 git clone https://github.com/Mk-Mkrtich/AIVA_Bot.git
 cd AIVA_Bot
 dotnet restore
+dotnet run
 ```
 
 Add .env
